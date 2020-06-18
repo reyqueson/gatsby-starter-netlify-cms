@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Instalation
+title: Installation
 date: 2016-12-17T15:04:10.000Z
 description: How to install in the new world on fashion week tools and timelapse
 featuredpost: false
