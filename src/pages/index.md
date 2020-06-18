@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Welcome to the jungle
-image: /img/sid-wall-3.jpg
+image: /img/blackhole.jpg
 heading: Welcome to the jungle
 subheading: unfuckWorld
 mainpitch:
