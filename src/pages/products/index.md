@@ -3,7 +3,7 @@ heading: New work
 path: /products
 templateKey: product-page
 title: Our book
-image: /img/sid-wall-3.jpg
+image: /img/blackhole.jpg
 description: System like dropbox documental inspire
 intro:
   blurbs:
